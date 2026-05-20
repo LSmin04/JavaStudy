@@ -15,5 +15,22 @@ public class SwitchEx {
       default:
         System.out.println("겨울");
     }
+
+    // 문제1
+    int a = 10;
+    int b = 15;
+
+    int sum = a + b;
+    int diff = a - b;
+    System.out.println("sum:: " + sum);
+    if (diff > 0) {
+      System.out.println("diff: " + diff);
+    } else {
+      System.out.println("두 수의 차는 양수가 아닙니다.");
+    }
+    
+    // 문제2
+    
+    
   }
 }

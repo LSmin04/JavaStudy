@@ -1,4 +1,4 @@
-package ex2_parameter;
+package ex02_parameter;
 
 // "public" class 는 클래스 명과 파일명 동일해야 한다. 
 // 파일 하나에 2개의 public 존재X 

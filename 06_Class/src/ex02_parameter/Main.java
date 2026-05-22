@@ -1,4 +1,4 @@
-package ex2_parameter;
+package ex02_parameter;
 
 public class Main {
 

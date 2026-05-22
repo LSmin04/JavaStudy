@@ -1,4 +1,4 @@
-package ex2_parameter;
+package ex02_parameter;
 
 class Main2 {
   public static void main(String[] args) {

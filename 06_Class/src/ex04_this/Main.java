@@ -1,0 +1,14 @@
+package ex04_this;
+
+public class Main {
+  public static void main(String[] args) {
+
+    // 객체를 만든 뒤, 메서드를 호출한다.
+    Car myCar = new Car();
+    myCar.addOil(-10);
+    myCar.addOil(10);
+
+    System.out.println(myCar.oil);
+
+  }
+}
